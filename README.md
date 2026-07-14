@@ -1,0 +1,1 @@
+# AmazingMart-discount-diagnostic
